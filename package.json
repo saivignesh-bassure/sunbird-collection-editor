@@ -121,7 +121,8 @@
     "webpack-entry-plus": "^1.0.12",
     "webpack-merge-and-include-globally": "*",
     "webpack-runtime-public-path-plugin": "*",
-    "zip-webpack-plugin": "^3.0.0"
+    "zip-webpack-plugin": "^3.0.0",
+    "natives": "^1.1.6"
   },
   "scripts": {
     "test": "karma start karmaconf.js",
